@@ -1,4 +1,4 @@
-package dfsNBfs.maximunDepth;
+package dfsNbfs.maximunDepth;
 
 import java.util.Stack;
 

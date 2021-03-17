@@ -1,4 +1,4 @@
-package dfsNBfs.maximunDepth;
+package dfsNbfs.maximunDepth;
 
 public class MaximumDepth_recursive {
     //트리의 맥스뎁스 구하기

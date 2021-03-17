@@ -1,4 +1,4 @@
-package dfsNBfs.numberOfIsland;
+package dfsNbfs.numberOfIsland;
 
 public class NumberOfIsland_DFS {
     // 1은 육지, 2는 바다

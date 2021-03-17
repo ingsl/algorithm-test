@@ -1,4 +1,4 @@
-package dfsNBfs.numberOfIsland;
+package dfsNbfs.numberOfIsland;
 
 import java.util.LinkedList;
 import java.util.Queue;
