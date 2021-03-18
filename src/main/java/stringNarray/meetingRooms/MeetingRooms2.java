@@ -36,8 +36,6 @@ public class MeetingRooms2 {
 
             pq.offer(intervals[i]);
         }
-        System.out.println("11111");
-
         System.out.println(pq.size());
 
         return pq.size();
